@@ -1,0 +1,4 @@
+To develop in Docker
+
+1. If not already installed, install the devkitpro Switch image here: https://hub.docker.com/r/devkitpro/devkita64
+2. Run the image: sudo docker run -i -t devkitpro/devkita64 /bin/bash
