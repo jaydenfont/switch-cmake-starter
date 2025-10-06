@@ -5,6 +5,7 @@ cmake_minimum_required(VERSION 3.21)
 
 # We set the C standard to 11.
 set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 
 ## CMake modules
 
